@@ -1,6 +1,6 @@
 package feature;
 
-import com.cd.acceptance.dsl.CucumberDsl;
+import com.cd.acceptance.examples.bookshopping.CucumberDsl;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;

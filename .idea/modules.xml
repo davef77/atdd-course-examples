@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/acceptance-testing.iml" filepath="$PROJECT_DIR$/acceptance-testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/acceptance-testing_main.iml" filepath="$PROJECT_DIR$/.idea/modules/acceptance-testing_main.iml" group="acceptance-testing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/acceptance-testing_test.iml" filepath="$PROJECT_DIR$/.idea/modules/acceptance-testing_test.iml" group="acceptance-testing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dev-acceptance-testing_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dev-acceptance-testing_main.iml" group="acceptance-testing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dev-acceptance-testing_main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/dev-acceptance-testing_main~1.iml" group="acceptance-testing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dev-acceptance-testing_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dev-acceptance-testing_test.iml" group="acceptance-testing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dev-acceptance-testing_test~1.iml" filepath="$PROJECT_DIR$/.idea/modules/dev-acceptance-testing_test~1.iml" group="acceptance-testing" />
+    </modules>
+  </component>
+</project>
